@@ -10,7 +10,6 @@
 - [Status do Projeto](#status-do-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Executar](#como-executar)
-- [Licença](#licença)
 - [Autor](#autor)
 
 ## Descrição
